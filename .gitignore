@@ -1,0 +1,4 @@
+pass.txt
+datasets/*
+.ipynb_checkpoints/
+*.png
